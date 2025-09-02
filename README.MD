@@ -13,12 +13,6 @@ This module can be completed in about an hour.
 By the end of this module, you’ll be able to:
 - Use Copilot’s code generation features, such as Next Edit Suggestions and Agent mode. 
 - Customize Copilot’s responses with custom instructions, prompt files, and chat modes. 
-- Understand the purpose of MCP, configure an MCP server, and use MCP tools. 
-
-## 📖 Prerequisite reading
-
-- [Introduction to prompt engineering with GitHub Copilot](https://learn.microsoft.com/training/modules/introduction-prompt-engineering-with-github-copilot//?WT.mc_id=academic-113596-abartolo)
-- [Using GitHub Copilot with JavaScript](https://learn.microsoft.com/training/modules/introduction-copilot-javascript/?WT.mc_id=academic-113596-abartolo)
 
 **Right click the following link to open the repository in a new tab**
 
