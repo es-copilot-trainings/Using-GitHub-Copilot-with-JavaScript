@@ -16,7 +16,7 @@ By the end of this module, you’ll be able to:
 
 **Right click the following link to open the repository in a new tab**
 
-[Clone this repository](https://github.com/github-samples/node-recipe-app)
+[Clone this repository](https://github.com/es-copilot-trainings/node-recipe-app)
 
 This application is a recipe app that allows users to create, edit, and read recipes. Before this module, there are notable missing features including the ability to delete and search recipes. But don’t worry, Copilot is here to help! 
 
