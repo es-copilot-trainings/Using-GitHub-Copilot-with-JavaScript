@@ -13,6 +13,27 @@ Some ideas of what to add:
 - A way to search recipes.
 - Support for multiple units of measurement on recipes. 
 
+## Prerequisites
+
+Before running this application, ensure you have the following tools installed:
+
+### Required Tools
+
+- **Node.js**: Version 18.0.0 or higher (recommended: 18.x LTS or later)
+  - Express 5.x requires Node.js 18+
+  - Download from [nodejs.org](https://nodejs.org/)
+- **npm**: Version 8.0.0 or higher (comes bundled with Node.js)
+  - Used for package management and running scripts
+
+### Verification Commands
+
+You can verify your installations by running:
+
+```bash
+node --version    # Should show v18.0.0 or higher
+npm --version     # Should show 8.0.0 or higher
+```
+
 ## Requirements
 
 The setup should be the following commands in your terminal:
