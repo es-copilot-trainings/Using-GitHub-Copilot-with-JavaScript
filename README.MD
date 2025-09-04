@@ -16,7 +16,7 @@ By the end of this module, you’ll be able to:
 
 **Right click the following link to open the repository in a new tab**
 
-[Open App directory](./app)
+[Open App README](./APP-INSTRUCTIONS.md)
 
 This application is a recipe app that allows users to create, edit, and read recipes. Before this module, there are notable missing features including the ability to delete and search recipes. But don’t worry, Copilot is here to help! 
 
